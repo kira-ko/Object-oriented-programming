@@ -63,3 +63,38 @@ dotnet run
 4. Если пользователь возвращает деньги — срабатывает метод ReturnCoins(), который разбивает сдачу на минимальное количество монет (50, 20, 10, 5, 2, 1) и выводит их список.
 5. В админ-режиме можно пополнить товары или снять собранные деньги (вход по паролю)
 
+## Демонстрация работы
+
+Посмотреть список товаров:
+
+<img width="571" height="511" alt="Screenshot 2025-10-08 194346" src="https://github.com/user-attachments/assets/04cd3d43-4525-46f9-9e3a-b526b6862bf6" />
+
+
+Пополнение счета:
+
+<img width="358" height="273" alt="Screenshot 2025-10-08 194410" src="https://github.com/user-attachments/assets/60008ea4-9f53-4d47-8903-29c2fecc48ed" />
+
+
+Покупка товара:
+
+<img width="582" height="588" alt="Screenshot 2025-10-08 194436" src="https://github.com/user-attachments/assets/89cafb0f-bb2c-48f4-8ad3-df66070e93df" />
+
+
+Покупка товара если недостаточно средств:
+
+<img width="559" height="588" alt="Screenshot 2025-10-08 194511" src="https://github.com/user-attachments/assets/cf6181d1-e269-41b1-b8c6-3a3501c8df97" />
+
+
+Возврат сдачи:
+
+<img width="285" height="344" alt="Screenshot 2025-10-08 194449" src="https://github.com/user-attachments/assets/757524c8-89a7-4bdb-8fbd-fe4c7fad8b2c" />
+
+
+Админ режим пополнение товров:
+
+<img width="581" height="527" alt="Screenshot 2025-10-08 194811" src="https://github.com/user-attachments/assets/1b609649-6a83-4d6d-b10e-9fd21f596bcb" />
+
+
+Админ режим снятие средств: 
+
+<img width="466" height="191" alt="Screenshot 2025-10-08 194830" src="https://github.com/user-attachments/assets/d7c109b9-98d5-4310-887b-948a7c220317" />

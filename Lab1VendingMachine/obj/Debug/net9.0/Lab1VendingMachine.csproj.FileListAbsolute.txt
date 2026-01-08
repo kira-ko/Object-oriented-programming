@@ -12,3 +12,4 @@ C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debu
 C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\Lab1VendingMachine.pdb
 C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\Lab1VendingMachine.genruntimeconfig.cache
 C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\ref\Lab1VendingMachine.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\Lab1VendingMachine.sourcelink.json

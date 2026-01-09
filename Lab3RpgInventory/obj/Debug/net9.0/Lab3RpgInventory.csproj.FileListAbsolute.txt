@@ -1,0 +1,12 @@
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\bin\Debug\net9.0\Lab3RpgInventory.deps.json
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\bin\Debug\net9.0\Lab3RpgInventory.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\bin\Debug\net9.0\Lab3RpgInventory.pdb
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\obj\Debug\net9.0\Lab3RpgInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\obj\Debug\net9.0\Lab3RpgInventory.AssemblyInfoInputs.cache
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\obj\Debug\net9.0\Lab3RpgInventory.AssemblyInfo.cs
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\obj\Debug\net9.0\Lab3RpgInventory.csproj.CoreCompileInputs.cache
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\obj\Debug\net9.0\Lab3RpgInventory.sourcelink.json
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\obj\Debug\net9.0\Lab3RpgInventory.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\obj\Debug\net9.0\refint\Lab3RpgInventory.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\obj\Debug\net9.0\Lab3RpgInventory.pdb
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3RpgInventory\obj\Debug\net9.0\ref\Lab3RpgInventory.dll

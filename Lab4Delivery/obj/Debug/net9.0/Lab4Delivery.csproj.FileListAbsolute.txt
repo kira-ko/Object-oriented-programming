@@ -1,0 +1,12 @@
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4Delivery\bin\Debug\net9.0\Lab4Delivery.deps.json
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4delivery\bin\Debug\net9.0\Lab4Delivery.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4delivery\bin\Debug\net9.0\Lab4Delivery.pdb
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4delivery\obj\Debug\net9.0\Lab4Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4delivery\obj\Debug\net9.0\Lab4Delivery.AssemblyInfoInputs.cache
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4delivery\obj\Debug\net9.0\Lab4Delivery.AssemblyInfo.cs
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4delivery\obj\Debug\net9.0\Lab4Delivery.csproj.CoreCompileInputs.cache
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4delivery\obj\Debug\net9.0\Lab4Delivery.sourcelink.json
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4delivery\obj\Debug\net9.0\Lab4Delivery.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4delivery\obj\Debug\net9.0\refint\Lab4Delivery.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4delivery\obj\Debug\net9.0\Lab4Delivery.pdb
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab4Delivery\obj\Debug\net9.0\ref\Lab4Delivery.dll

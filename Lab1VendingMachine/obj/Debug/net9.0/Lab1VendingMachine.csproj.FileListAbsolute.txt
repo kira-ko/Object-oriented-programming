@@ -1,0 +1,15 @@
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\bin\Debug\net9.0\Lab1VendingMachine.exe
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\bin\Debug\net9.0\Lab1VendingMachine.deps.json
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\bin\Debug\net9.0\Lab1VendingMachine.runtimeconfig.json
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\bin\Debug\net9.0\Lab1VendingMachine.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\bin\Debug\net9.0\Lab1VendingMachine.pdb
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\Lab1VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\Lab1VendingMachine.AssemblyInfoInputs.cache
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\Lab1VendingMachine.AssemblyInfo.cs
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\Lab1VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\Lab1VendingMachine.sourcelink.json
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\Lab1VendingMachine.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\refint\Lab1VendingMachine.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\Lab1VendingMachine.pdb
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\Lab1VendingMachine.genruntimeconfig.cache
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1VendingMachine\obj\Debug\net9.0\ref\Lab1VendingMachine.dll

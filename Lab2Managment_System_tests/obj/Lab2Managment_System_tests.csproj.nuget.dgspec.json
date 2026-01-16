@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2Managment_System_tests\\Lab2Managment_System_tests.csproj": {}
+    "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2managment_System_tests\\Lab2Managment_System_tests.csproj": {}
   },
   "projects": {
     "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2Managment_System\\Lab2Managment_System.csproj": {
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2Managment_System_tests\\Lab2Managment_System_tests.csproj": {
+    "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2managment_System_tests\\Lab2Managment_System_tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2Managment_System_tests\\Lab2Managment_System_tests.csproj",
+        "projectUniqueName": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2managment_System_tests\\Lab2Managment_System_tests.csproj",
         "projectName": "Lab2Managment_System_tests",
-        "projectPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2Managment_System_tests\\Lab2Managment_System_tests.csproj",
+        "projectPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2managment_System_tests\\Lab2Managment_System_tests.csproj",
         "packagesPath": "C:\\Users\\kirrz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2Managment_System_tests\\obj\\",
+        "outputPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2managment_System_tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kirrz\\AppData\\Roaming\\NuGet\\NuGet.Config"

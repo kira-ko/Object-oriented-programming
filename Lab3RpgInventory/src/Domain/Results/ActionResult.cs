@@ -1,6 +1,6 @@
 namespace RpgInventory.Domain.Results;
 
-public abstract class ActionResult
+public class ActionResult
 {
     public bool Success { get; }
     public string Message { get; }
@@ -10,4 +10,7 @@ public abstract class ActionResult
         Success = success;
         Message = message;
     }
+
+    public static ActionResult Ok(string message) => new(true, message);
+    public static ActionResult Fail(string message) => new(false, message);
 }

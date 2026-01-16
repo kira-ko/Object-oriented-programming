@@ -4,14 +4,14 @@
     "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4Delivery_tests\\Lab4Delivery.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4Delivery\\Lab4Delivery.csproj": {
+    "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4delivery\\Lab4Delivery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4Delivery\\Lab4Delivery.csproj",
+        "projectUniqueName": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4delivery\\Lab4Delivery.csproj",
         "projectName": "Lab4Delivery",
-        "projectPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4Delivery\\Lab4Delivery.csproj",
+        "projectPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4delivery\\Lab4Delivery.csproj",
         "packagesPath": "C:\\Users\\kirrz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4Delivery\\obj\\",
+        "outputPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4delivery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kirrz\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -85,8 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4Delivery\\Lab4Delivery.csproj": {
-                "projectPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4Delivery\\Lab4Delivery.csproj"
+              "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4delivery\\Lab4Delivery.csproj": {
+                "projectPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4delivery\\Lab4Delivery.csproj"
               }
             }
           }

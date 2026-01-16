@@ -945,8 +945,8 @@
     },
     "Lab4Delivery/1.0.0": {
       "type": "project",
-      "path": "../Lab4Delivery/Lab4Delivery.csproj",
-      "msbuildProject": "../Lab4Delivery/Lab4Delivery.csproj"
+      "path": "../Lab4delivery/Lab4Delivery.csproj",
+      "msbuildProject": "../Lab4delivery/Lab4Delivery.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -983,8 +983,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4Delivery\\Lab4Delivery.csproj": {
-              "projectPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4Delivery\\Lab4Delivery.csproj"
+            "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4delivery\\Lab4Delivery.csproj": {
+              "projectPath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab4delivery\\Lab4Delivery.csproj"
             }
           }
         }

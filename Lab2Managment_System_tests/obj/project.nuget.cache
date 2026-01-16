@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3V7O+1QMdSo=",
+  "dgSpecHash": "fQ2E/2sCqWw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2Managment_System_tests\\Lab2Managment_System_tests.csproj",
+  "projectFilePath": "C:\\Users\\kirrz\\study\\OOP\\Object-oriented-programming\\Lab2managment_System_tests\\Lab2Managment_System_tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kirrz\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\kirrz\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

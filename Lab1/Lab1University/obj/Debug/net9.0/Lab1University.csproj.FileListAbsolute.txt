@@ -1,0 +1,12 @@
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\bin\Debug\net9.0\Lab1University.deps.json
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\bin\Debug\net9.0\Lab1University.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\bin\Debug\net9.0\Lab1University.pdb
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\obj\Debug\net9.0\Lab1University.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\obj\Debug\net9.0\Lab1University.AssemblyInfoInputs.cache
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\obj\Debug\net9.0\Lab1University.AssemblyInfo.cs
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\obj\Debug\net9.0\Lab1University.csproj.CoreCompileInputs.cache
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\obj\Debug\net9.0\Lab1University.sourcelink.json
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\obj\Debug\net9.0\Lab1University.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\obj\Debug\net9.0\refint\Lab1University.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\obj\Debug\net9.0\Lab1University.pdb
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab1\Lab1University\obj\Debug\net9.0\ref\Lab1University.dll

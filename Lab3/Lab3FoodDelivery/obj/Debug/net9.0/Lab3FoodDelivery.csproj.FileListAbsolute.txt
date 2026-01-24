@@ -1,0 +1,12 @@
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\obj\Debug\net9.0\Lab3FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\obj\Debug\net9.0\Lab3FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\obj\Debug\net9.0\Lab3FoodDelivery.AssemblyInfo.cs
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\obj\Debug\net9.0\Lab3FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\obj\Debug\net9.0\Lab3FoodDelivery.sourcelink.json
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\bin\Debug\net9.0\Lab3FoodDelivery.deps.json
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\bin\Debug\net9.0\Lab3FoodDelivery.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\bin\Debug\net9.0\Lab3FoodDelivery.pdb
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\obj\Debug\net9.0\Lab3FoodDelivery.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\obj\Debug\net9.0\refint\Lab3FoodDelivery.dll
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\obj\Debug\net9.0\Lab3FoodDelivery.pdb
+C:\Users\kirrz\study\OOP\Object-oriented-programming\Lab3\Lab3FoodDelivery\obj\Debug\net9.0\ref\Lab3FoodDelivery.dll
